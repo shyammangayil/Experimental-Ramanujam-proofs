@@ -410,7 +410,7 @@ Rather than replacing mathematicians, Mathematical Discovery OS aims to accelera
 
 A detailed analysis of the **Ramanujan Challenge for AI**, including the proposed AI architecture, research approach, multi-agent design, and operationalization strategy, is available here:
 
-- [Ramanujam Solutions - AI.md](./Ramanujan%20Challenge%20for%20AI%20-%20Complete Solutions Document.md)
+- [Ramanujam Solutions - AI.md](./Ramanujan%20Challenge%20for%20AI%20-%20Complete%20Solutions%20Document.md)
 
 
 This document covers:
